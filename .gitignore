@@ -1,4 +1,7 @@
 candidates.csv
+data_clean.csv
+MLA_100k.jsonlines
 env/
 config.yaml
 01_extract copy.ipynb
+transformations_workshop.pdf
